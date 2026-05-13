@@ -1,2 +1,24 @@
-# SIC
-Project OverviewThis repository serves as a technical log of my work during the Samsung Innovation Campus (SIC) AI Internship. As an undergraduate at Zewail City of Science and Technology, I used this program to transition from theoretical engineering concepts to applied machine learning solutions.  The curriculum provided a deep dive into the full lifecycle of an AI project, beginning with the mathematical foundations and ending with the deployment of advanced neural networks.Core CompetenciesThrough the nine chapters of the SIC program, I developed and applied the following skills:Mathematical Foundations: Used Linear Algebra, Calculus, and Probability to understand model optimization and data distributions.Data Engineering: Performed extensive data cleaning and exploratory data analysis (EDA) using Python, NumPy, and Pandas.  Machine Learning: Implemented supervised learning models like SVMs and Decision Trees, as well as unsupervised approaches including K-Means clustering and Principal Component Analysis (PCA).Deep Learning: Built architectures for Computer Vision (CNNs) and sequential data (RNNs) using TensorFlow and Keras.Natural Language Processing: Processed textual data for sentiment analysis and explored the mechanics of Large Language Models (LLMs).Technical EnvironmentProgramming: Python (Expert level).  Libraries: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib.  Tools: Jupyter Notebooks, VS Code, GitHub.  Repository StructureThe notebooks are organized by the phase of the data science workflow:Data Analysis: Focuses on numerical computation and visualization.Machine Learning: Contains supervised and unsupervised model implementations.Deep Learning: Features neural network training for image and text-based tasks.
+# Samsung Innovation Campus: AI and Machine Learning Portfolio
+
+### Project Overview
+This repository serves as a technical log of my work during the Samsung Innovation Campus (SIC) AI Internship. As an undergraduate at **Zewail City of Science and Technology**, I used this program to transition from theoretical engineering concepts to applied machine learning solutions. The curriculum provided a deep dive into the full lifecycle of an AI project, beginning with the mathematical foundations and ending with the deployment of advanced neural networks.
+
+### Core Competencies
+Through the nine chapters of the SIC program, I developed and applied the following skills:
+
+* **Mathematical Foundations**: Used Linear Algebra, Calculus, and Probability to understand model optimization and data distributions.
+* **Data Engineering**: Performed extensive data cleaning and exploratory data analysis (EDA) using **Python**, **NumPy**, and **Pandas**.
+* **Machine Learning**: Implemented supervised learning models like SVMs and Decision Trees, as well as unsupervised approaches including K-Means clustering and Principal Component Analysis (PCA).
+* **Deep Learning**: Built architectures for Computer Vision (**CNNs**) and sequential data (**RNNs**) using **TensorFlow** and **Keras**.
+* **Natural Language Processing**: Processed textual data for sentiment analysis and explored the mechanics of Large Language Models (LLMs).
+
+### Technical Environment
+* **Programming**: Python (Expert level).
+* **Libraries**: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib.
+* **Tools**: Jupyter Notebooks, VS Code, GitHub.
+
+### Repository Structure
+The notebooks are organized by the phase of the data science workflow:
+* **Data Analysis**: Focuses on numerical computation and visualization.
+* **Machine Learning**: Contains supervised and unsupervised model implementations.
+* **Deep Learning**: Features neural network training for image and text-based tasks.
